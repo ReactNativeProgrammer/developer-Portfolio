@@ -36,6 +36,7 @@ a{
 .topBanner{
     background-image: url(../img/images/top-banner.png);
     background-repeat: no-repeat;
+    padding-top: 100px;
 }
 .mts{
     margin-top: 8%;
